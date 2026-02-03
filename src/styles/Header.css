@@ -1,0 +1,17 @@
+navigatio {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #1f2838;
+}
+ul {
+    display: flex;
+}
+ul li {
+    padding: 0 25px;
+}
+.a-button{
+    background: #5ec169;
+    padding: 7px 16px;
+    border-radius: 3px;
+    color: black;
+}
